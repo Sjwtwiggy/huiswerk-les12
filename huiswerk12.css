@@ -1,14 +1,14 @@
 header{
-background-color: #4682B4;
+background-color: #4682B4
 }
 
 footer{
-background-color: #4682B4;
+background-color: #4682B4
 }
 
 body{
 background-color: #B0E0E6;
-color: #000000;
+color: #000000
 }
 
 table {
@@ -21,66 +21,41 @@ td, th {
   text-align: left;
 }
 
-#AA{
-  background-color:
-}
 
 #AB{
-  background-color: #DC143C;
+  background-color: #DC143C
 }
 
-#AC{
-  background-color:
-}
 
 #AD{
-  background-color: #ADFF2F;
+  background-color: #ADFF2F
 }
 
-#BA{
-  background-color:
-}
 
 #BB{
-  background-color: #800080;
+  background-color: #800080
 }
 
-#BC{
-  background-color:
-}
 
 #BD{
-  background-color: #FF6347;
+  background-color: #FF6347
 }
 
-#CA{
-  background-color:
-}
 
 #CB{
-  background-color: #FF4500;
+  background-color: #FF4500
 }
 
-#CC{
-  background-color:
-}
 
 #CD{
-  background-color: #FFFF00;
-}
-
-#DA{
-  background-color:
+  background-color: #FFFF00
 }
 
 #DB{
-  background-color: #228B22;
+  background-color: #228B22
 }
 
-#DC{
-  background-color:
-}
 
 #DD{
-  background-color: #FF8C00;
+  background-color: #FF8C00
 }
